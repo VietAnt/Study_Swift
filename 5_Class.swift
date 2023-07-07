@@ -1,6 +1,4 @@
 //Todo: Kiểu dữ liệu class là reference type: kiểu dữ liệu tham chiếu
-
-
 class Vehicle {
     //? = can be null
     var speed: Double?
